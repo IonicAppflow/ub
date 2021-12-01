@@ -1,11 +1,11 @@
 # ub
-npm i -g @ionic/cli
-npm i -g
-ionic 
-ionic cap
-ionic cap build - select android
-ionic cap build - select apple
-ionic cap sync 
-ionic init / start
+npm i -g @ionic/cli<br>
+npm i -g<br>
+ionic <br>
+ionic cap<br>
+ionic cap build - select android<br>
+ionic cap build - select apple<br>
+ionic cap sync <br>
+ionic init / start<br>
 
-install required dependencay as deprecations come up - stick with original verisioning 0.0.1
+install required dependencay as deprecations come up - stick with original verisioning 0.0.1<br>
